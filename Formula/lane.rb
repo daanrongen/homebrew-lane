@@ -2,9 +2,9 @@ class Lane < Formula
   desc "Keyboard-driven, GPU-rendered timeline of what your coding agents are doing"
   homepage "https://github.com/daanrongen/lane"
   # url, version and sha256 are updated by .github/workflows/update.yml
-  url "https://github.com/daanrongen/lane/releases/download/v0.1.1/lane-0.1.1-macos-arm64.tar.gz"
-  version "0.1.1"
-  sha256 "394525f7322ff17940ce73d9742c27b66cfcc62b8e7751db089f2f35bca3dcb6"
+  url "https://github.com/daanrongen/lane/releases/download/v0.2.0/lane-0.2.0-macos-arm64.tar.gz"
+  version "0.2.0"
+  sha256 "3b64a709422d95375ba8bd86277c5684d0fb9433f42df5dafa001331e396dfa5"
   license "MIT"
 
   depends_on arch: :arm64
