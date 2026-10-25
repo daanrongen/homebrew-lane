@@ -4,7 +4,7 @@ class Lane < Formula
   # url, version and sha256 are updated by .github/workflows/update.yml
   url "https://github.com/daanrongen/lane/releases/download/v0.1.0/lane-0.1.0-macos-arm64.tar.gz"
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "fe3a0cb2b75a12e4fb83c0a5ffc72caa5e57484301b60e54ea2876bddd5f0cd4"
   license "MIT"
 
   depends_on arch: :arm64
